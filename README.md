@@ -1,5 +1,5 @@
 # Differential-Expression-Analysis-RNA-seq
-R scripts for differential expression analysis with Sleuth and DESeq2. 
+R scripts for differential expression analysis of RNA-seq data with Sleuth and DESeq2. 
 
 Uses both Sleuth and DESeq2 to run differential expression analysis on results from Kallisto. 
 
